@@ -1,0 +1,70 @@
+.googleimg{
+    width: 272px;
+    margin: 0px;  
+    margin-top: 70px;  
+    max-height: 290px;
+    height: calc(100% - 560px);
+
+
+
+    
+   
+    
+    
+}
+.textbox{
+    padding-left: 10px;
+    padding-bottom: 15px;
+    padding-right: 300px;
+   border-style: solid;
+    border-color: rgb(221, 221, 221);
+    border-radius: 25px;
+    width: 272px;
+    border-width: 1px;
+    padding-top: 15px;
+    
+    
+    
+}
+.textbox:hover{
+    box-shadow: 1px 1px 4px rgb(152, 150, 150);
+    border-color: rgb(221, 221, 221);
+    border-width: 1px;
+    
+}
+.textbox:active{
+    border-width: 1px;
+    border-style: solid;
+}
+
+.div-google{
+    text-align: center;
+    
+    
+
+}
+.search-box{
+text-align: center;
+}
+.button-feel{
+padding-left: 5px;
+padding-right: 5px;
+padding-top: 4px;
+padding-bottom: 4px;
+margin-left: 6px;
+margin-top: 40px;
+opacity: 0.5;
+font-weight: bold;
+}
+.button-google{
+    padding-left: 5px;
+padding-right: 5px;
+padding-top: 4px;
+padding-bottom: 4px;
+margin-left: 470px;
+margin-top: 40px;
+opacity: 0.5;
+font-weight: bold;
+
+
+}

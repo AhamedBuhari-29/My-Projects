@@ -1,0 +1,26 @@
+.model-text{
+    font-family: Montserrat;
+    color: black;
+    font-size: 30px;
+    margin-left: 50px;
+    font-weight: bold;
+    line-height: 1px;
+}
+
+.span-order{
+    font-size: 15px;
+    color: rgb(173, 166, 166);
+    margin-right: 8px;
+}
+.span-touch{
+    color:  rgb(173, 166, 166);
+    font-size: 15px;
+    text-decoration: underline;
+    cursor:pointer;
+}
+.span-touch:hover{
+    text-decoration: underline;
+}
+.span-touch:active{
+    opacity: 0.5;
+}

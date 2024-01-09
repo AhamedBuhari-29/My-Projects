@@ -1,0 +1,17 @@
+button{
+    background-color: rgb(255, 216, 20);
+    color: black;
+    width: 180px;
+    height: 36px;
+    border: none;
+    font-weight: bold;
+    border-radius: 20px;
+    cursor: pointer;
+    transition: 0.50s;
+}
+button:hover{
+    background-color: rgb(224, 165, 2);
+}
+button:active{
+    opacity: 0.5;
+}

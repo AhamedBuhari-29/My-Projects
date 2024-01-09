@@ -1,0 +1,52 @@
+.box-firstname{
+    padding-top: 8px;
+    padding-bottom: 8px;
+    padding-left: 5px;
+    border-radius: 8px;
+    
+    border-width: 1px;
+}
+.box-lastname{
+    padding-top: 8px;
+    padding-bottom: 8px;
+    padding-left: 5px;
+    border-radius: 8px;
+    border-width: 1px;
+    
+    
+}
+.box-email{
+    display: block;
+    padding-top: 8px;
+    padding-bottom: 8px;
+    padding-left: 5px;
+    padding-right: 179px;
+    margin-top: 10px;
+    border-radius: 8px;
+    border-width: 1px;
+
+}
+.button-signup{
+    padding-top: 12px;
+    padding-bottom: 12px;
+    padding-left: 148px;
+    padding-right: 148px;
+    margin-top: 10px;
+    color: white;
+    font-weight: bold;
+    background-color: rgb(0, 119, 255);
+    border: solid;
+    border-radius: 8px;
+    cursor: pointer;
+    transition: 0.25s;
+}
+.button-signup:hover{
+    opacity: 0.8;
+}
+.button-signup:active{
+    opacity: 0.5;
+}
+.div-form{
+    display: inline-block;
+
+}

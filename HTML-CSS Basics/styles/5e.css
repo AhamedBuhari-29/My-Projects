@@ -1,0 +1,60 @@
+.new{
+    color: rgb(233, 153, 4);
+    text-align: center;
+    font-family: arial;
+    font-weight: bold;
+    margin-bottom: 10px;
+    margin-top: 250px;
+    margin-bottom: 2px;
+    
+
+}
+.product{
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    font-size: 25px;
+    color: black;
+    line-height: 2px;
+}
+.product-desc{
+    color: black;
+    font-size: 35px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    text-align: center;
+    line-height: 4px;
+}
+.price{
+    color: rgb(115, 114, 114);
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    line-height: 4px;
+    font-weight: bold;
+}
+.buy-button{
+    color: white;
+    font-size: 15px;
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: rgb(5, 140, 249);
+    border-radius: 16px;
+    border-style: none;
+    margin-left: 580px;
+    border-width: 4px;
+    padding-left: 13px;
+    padding-top: 6px;
+    padding-bottom: 6px;
+    padding-right: 13px;
+    transition: 0.50s;
+    cursor: pointer;
+    
+    
+}
+.buy-button:hover{
+    opacity: 0.9;
+}
+.buy-button:active{
+    opacity: 0.5;
+}

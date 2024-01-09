@@ -1,0 +1,36 @@
+.div-exam{
+    height: 100px;
+    width: 450px;
+    border: 2px solid black;
+
+}
+.para{
+    color: black;
+    font-size: 18px;
+    font-family: arial;
+    width: 300px;
+    display: inline-block;
+    text-align: center;
+    margin-top: 34px;
+
+}
+.butt-yes{
+    margin-left: 1px;
+  padding-left: 8px;
+  padding-right: 8px;
+vertical-align: middle;
+}
+.butt-no{
+   padding-left: 8px;
+  padding-right: 8px;
+  
+
+}
+.div-buh{
+    margin-top: 50px;
+    background-color: black;
+    border-radius: 50px;
+    height: 90px;
+    width: 90px;
+    border: 4px solid blanchedalmond;
+}

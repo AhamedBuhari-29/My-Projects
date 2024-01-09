@@ -1,0 +1,44 @@
+.mail{
+    color: grey;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-bottom: 4px;
+    }
+    .textbox{
+    padding-right: 180px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    border-color: black;
+    border-radius: 3px;
+    
+    }
+    .Agree{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 14px;
+    color:  grey;
+    }
+    .button-agree{
+        font-family: arial;
+    color: white;
+    font-weight: bold;
+    border-style: none;
+    font-size: 14px;
+    background-color: rgb(10, 105, 230);
+    padding-left: 130px;
+    padding-right: 130px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    border-radius: 40px;
+    cursor: pointer;
+    transition: 0.15s;
+    
+    }
+    .button-agree:hover{
+        opacity: 0.8;
+    }
+    .button-agree:active{
+        opacity: 0.5;
+    }
+    .login-details{
+        display: inline-block;
+    }
+    

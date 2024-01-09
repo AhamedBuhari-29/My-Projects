@@ -1,0 +1,22 @@
+button{
+    background-color: rgb(46,164,79);
+    color: white;
+    font-weight: bold;
+    border: none;
+    height: 36px;
+    width: 100px;
+    border-radius: 8px;
+    cursor: pointer;
+    transition: 0.50s;
+    margin-left: 600px;
+    margin-top: 450px;
+
+
+}
+button:hover{
+    background-color: green;
+    
+}
+button:active{
+    opacity: 0.5;
+}

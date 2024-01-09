@@ -1,0 +1,17 @@
+.cat{
+    width: 200px;
+    border-radius: 20px;
+    margin-right: 100px;
+    vertical-align: middle;
+        }
+        .cat2{
+    width: 200px;
+    object-position: center;
+    vertical-align: middle;
+        }
+        .cat3{
+    width: 200px;
+    border-radius: 100px;
+    margin-left: 100px;
+    vertical-align: middle;
+        }

@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Grid examples</title>
+    </head>
+    <style>
+        .grid-ex{
+            display:grid;
+            grid-template-columns: 100px 100px 100px 1fr ;
+            grid-gap: 10px;
+        }
+    </style>
+    <body>
+        <div class="grid-ex">
+            <div style="background-color: lightblue;">100px<p>
+                div 1
+            </p></div>
+            <div style="background-color: lightcoral;">100px
+            <p>
+                div 2
+            </p></div>
+            <div style="background-color: lightcoral;">1fr
+                <p>
+                    div 4
+                </p></div>
+            <div style="background-color: lightblue;">100px<p>
+                div 3
+            </div>
+            
+            <div style="background-color: lightblue;">100px<p>
+                div 5
+            </p></div>
+            <div style="background-color: lightcoral;">100px
+            <p>
+                div 6
+            </p></div>
+            <div style="background-color: lightblue;">100px<p>
+                div 7
+            </div>
+            <div style="background-color: lightcoral;">1fr
+            <p>
+                div 8
+            </p></div>
+        </div>
+    </body>
+</html>

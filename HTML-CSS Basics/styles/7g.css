@@ -1,0 +1,33 @@
+.catimg{
+    width: 50px;
+    border-radius: 50px;
+   vertical-align: middle;
+   }
+   .text-write{
+       color: grey;
+       font-family: arial;
+       font-size: 14px;
+       vertical-align: middle;
+       display: inline-block;
+       margin-left: 8px;
+       border-style: none;
+   }
+   .tweet{
+       
+background-color: white;
+border-color:  rgb(23, 138, 232);
+height: 36px;
+width: 80px;
+color: white;
+background-color:  rgb(23, 138, 232);
+font-weight: bold;
+border-style: solid;
+border-radius: 30px;
+cursor:pointer;
+margin-left: 100px;
+vertical-align: middle;
+}
+.tweet-button:hover{
+box-shadow: 5px 5px 5px rgba(12, 1, 1, 0.15);
+
+}

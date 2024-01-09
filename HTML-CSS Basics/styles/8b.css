@@ -1,0 +1,19 @@
+.paragraph{
+    font-family: arial;
+    font-size: 18px;
+    width: 250px;
+    display: inline-block;
+    vertical-align: middle;
+    
+}
+.button-yes{
+    font-size: 15px;
+    vertical-align: middle;
+    cursor: pointer;
+
+}
+.button-no{
+    font-size: 15px;
+    vertical-align: middle;
+    cursor:pointer;
+}

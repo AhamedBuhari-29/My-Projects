@@ -1,0 +1,88 @@
+    
+    .font-ex{
+        font-family: tahoma;
+          font-weight: bold;
+          font-size: 20px;
+          
+      }
+      .course-name{
+          font-family: Verdana, Geneva, Tahoma, sans-serif;
+          font-weight: bold;
+          margin-bottom: 3px;
+          
+          
+      }
+      .level{
+          padding-bottom: 20px;
+          margin-top: 3px;
+          font-family: Verdana, Geneva, Tahoma, sans-serif;
+          color: rgb(165, 156, 156);
+      }
+      .course-details{
+          font-family:Verdana, Geneva, Tahoma, sans-serif;
+          width: 320px;
+          font-weight: bold;
+          
+      }
+      .start-button{
+          background-color: green;
+          color: white;
+          font-weight: bold;
+          padding-left: 15px;
+          padding-right: 15px;
+          padding-top: 7px;
+          padding-bottom: 7px;
+          font-style: solid;
+          border-style: none;
+          border-radius: 5px;
+          cursor: pointer;
+          transition: 0.15s;
+      }
+      .start-button:hover{
+          background-color: rgb(12, 169, 12);
+      }
+      .start-button:active{
+          background-color:rgb(10, 134, 10) ;
+      }
+      .italic-text{
+          color: rgb(188, 13, 13);
+          font-size: 15px;
+          margin-top: 7px;
+      }
+      .text-inside{
+          color: black;
+          font-weight: bold;
+          font-size: 30px;
+          font-family: Arial, Helvetica, sans-serif;
+          margin-bottom: 8px;
+  
+      }
+      .text-business{
+          color: black;
+          font-family:Arial, Helvetica, sans-serif;
+          font-size: 30px;
+          font-weight: bold;
+          margin-bottom: 2px;
+      }
+      .text-help{
+          font-family: Arial, Helvetica, sans-serif;
+          font-size: 18px;
+          color: black;
+          margin-left: 60px;
+          line-height: 0px;
+      }
+      .text-learn{
+          font-family: Arial, Helvetica, sans-serif;
+          font-size: 18px;
+          color: rgb(52, 111, 240);
+          cursor: pointer;
+          margin-left: 135px ;
+          transition: 0.50s;
+      }
+      .text-learn:hover{
+          text-decoration: underline;
+  
+      }
+      .text-learn:active{
+          opacity: 0.5;
+      }
