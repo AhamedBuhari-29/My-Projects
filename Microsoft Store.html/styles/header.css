@@ -1,0 +1,48 @@
+.header{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+.right-section{
+    width: 200px;
+    display: flex;
+    align-items: center;
+
+}
+.logo-microsoft{
+    height: 24px;
+    padding-right: 10px;
+}
+.search-bar-container{
+   margin-left: 100px;
+    width: 500px;
+    position: relative;
+}
+.search-bar{
+    display: flex;
+    flex-direction: row;
+    width: 550px;
+    height: 26px;
+    border-radius: 25px;
+    border: 1px black solid;
+    
+}
+.search-bar:active{
+    border-radius: 25px;
+    border: 1px black solid;
+}
+.search-bar::placeholder{
+    padding-left: 10px;
+    color: black;
+    
+}
+.search-icon{
+    width: 30px;
+    position: absolute;
+    top: 3px;
+    right: -40px;
+}
+.search-icon-img{
+    height: 24px;
+    
+}

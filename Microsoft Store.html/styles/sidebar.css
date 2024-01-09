@@ -1,0 +1,20 @@
+.sidebar{
+    position: fixed;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    width: 60px;
+    top: 55px;
+    left: 0px;
+    bottom: 0px;
+    background-color: lightgrey;
+    align-items: center;
+}
+.sidebar-link{
+    border-bottom: 1px;
+}
+.sidebar-link img{
+    height: 26px;
+    
+
+}
